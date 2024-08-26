@@ -21,21 +21,21 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "BTS Também conhecido como Bangtan Boys é um grupo masculino sul-coreano formado pela empresa Big Hit Music. Vou fazer algumas perguntas para ver até onde você conhece.",
+        enunciado: "Quando o BTS fez sua estreia oficial?",
         alternativas: [
             {
-                texto: " .",
+                texto: " 13/06/2013.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    " O BTS fez sua estreia oficial em 13 de junho de 2013.",
+                    " Com a música No More Dream.",
+                    " E desde entâo vem fazendo um sucesso gigantesco."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: " 13/03/2014.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
+                    " O BTS não fez sua estreia oficial em 13/03/2014.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
                 ],
