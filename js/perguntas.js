@@ -1,173 +1,173 @@
 export const perguntas = [
     {
-        enunciado: "você conhece o BTS?",
+        enunciado: "Você conhece o BTS?",
         alternativas: [
             {
-                texto: "sim!",
+                texto: "Sim!",
                 afirmacao: [
-                    "eu conheço eles.",
-                    "eu sou fã deles."
+                    "Eu conheço o BTS.",
+                    "Sou fã do BTS."
                 ],
                 proxima: 1,
             },
             {
                 texto: "Não!",
                 afirmacao: [
-                    "eu não conheço eles.",
-                    "nunca vi nada sobre eles."
+                    "Eu não conheço o BTS.",
+                    "Nunca ouvi falar deles."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Quando o BTS fez sua estreia oficial?",
+        enunciado: "Qual foi o primeiro álbum de estúdio do BTS?",
         alternativas: [
             {
-                texto: " 13/06/2013.",
+                texto: "2 Cool 4 Skool",
                 afirmacao: [
-                    " O BTS fez sua estreia oficial em 13 de junho de 2013.",
-                    " Com a música No More Dream.",
-                    " E desde entâo vem fazendo um sucesso gigantesco."
+                    "O primeiro álbum de estúdio do BTS é '2 Cool 4 Skool'.",
+                    "Lançado em 2013, foi parte do início da carreira do grupo.",
+                    "Inclui faixas como 'No More Dream' e 'We Are Bulletproof Pt.2'."
                 ],
                 proxima: 3,
             },
             {
-                texto: " 13/03/2014.",
+                texto: "Wings",
                 afirmacao: [
-                    " O BTS não fez sua estreia oficial em 13/03/2014.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "O álbum 'Wings' foi lançado em 2016 e não é o primeiro álbum de estúdio do BTS.",
+                    "Este álbum é conhecido por suas músicas como 'Blood Sweat & Tears'.",
+                    "Foi um marco importante na carreira do grupo, mas veio depois de '2 Cool 4 Skool'."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "O BTS tem algum recorde mundial? Se sim, qual é um dos recordes que eles detêm?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Sim, eles têm vários recordes.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
-                ],
-                proxima: 3,
-            },
-            {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
-                ],
-                proxima: 4,
-            },
-        ]
-    },
-    {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
-        alternativas: [
-            {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "O BTS detém recordes como o de maior número de visualizações em 24 horas no YouTube com o vídeo de 'Dynamite'.",
+                    "Eles também são conhecidos por suas conquistas em vendas e nas paradas musicais ao redor do mundo."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Não, eles não têm recordes.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Na verdade, o BTS possui vários recordes mundiais.",
+                    "Além das visualizações no YouTube, eles têm recordes de vendas e conquistas em várias paradas musicais."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Utilizar informações próprias traz um toque pessoal ao nosso trabalho. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Como o BTS usa as redes sociais para se conectar com seus fãs?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Eles utilizam plataformas como Twitter, Instagram e Weverse.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "O BTS usa redes sociais para interagir diretamente com os fãs.",
+                    "Compartilham atualizações sobre sua música, vida pessoal e atividades diárias.",
+                    "Weverse é uma plataforma onde eles postam conteúdo exclusivo e interagem com os ARMYs."
                 ],
-                proxima: 5,
+                proxima: 7,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Eles não usam redes sociais para se conectar com os fãs.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Na realidade, o BTS usa redes sociais de forma significativa para se conectar com seus fãs.",
+                    "Através dessas plataformas, eles mantêm uma comunicação constante e atualizada com a base de fãs."
                 ],
-                proxima: 6,
+                proxima: 8,
             },
         ]
     },
     {
-        enunciado: "Novas tecnologias trazem novos desafios, por isso após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Qual foi a importância do BTS no movimento cultural do K-Pop globalmente?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Eles ajudaram a popularizar o K-Pop em nível global.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "O BTS desempenhou um papel crucial na expansão do K-Pop fora da Coreia do Sul.",
+                    "Eles conseguiram alcançar um público global e tiveram sucesso em mercados internacionais.",
+                    "Suas músicas, performances e engajamento nas redes sociais ajudaram a consolidar o K-Pop no cenário mundial."
                 ],
-                proxima: 7,
+                proxima: 9,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "Eles não tiveram impacto significativo no K-Pop globalmente.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Contrariamente, o BTS teve um impacto muito significativo na popularização do K-Pop.",
+                    "A influência deles no cenário global ajudou a abrir portas para outros artistas de K-Pop também."
                 ],
-                proxima: 7,
+                proxima: 10,
             },
         ]
     },
     {
-        enunciado: "É muito importante refletir sobre os trabalhadores do futuro. Por isso a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Qual é um dos projetos sociais importantes do BTS?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "O projeto 'Love Myself' em parceria com a UNICEF.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "O projeto 'Love Myself' visa acabar com a violência contra crianças e adolescentes.",
+                    "O BTS colaborou com a UNICEF para arrecadar fundos e promover conscientização sobre este importante tema."
                 ],
-                proxima: 7,
+                proxima: 11,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "O projeto 'Music for All' para distribuição de instrumentos musicais.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "O projeto 'Music for All' não é um projeto associado ao BTS.",
+                    "O BTS é conhecido pelo projeto 'Love Myself', que foca em questões de violência e saúde mental."
                 ],
-                proxima: 7,
+                proxima: 12,
             },
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Como você descreveria o impacto do BTS na música e na cultura pop?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Eles revolucionaram a música pop e influenciaram a cultura pop global.",
                 afirmacao: [
-                    "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
-                    "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
+                    "O BTS trouxe uma nova abordagem ao pop, misturando diferentes estilos musicais e visuais.",
+                    "Eles tiveram um impacto significativo na forma como a música pop é produzida e consumida, influenciando tanto a indústria musical quanto a cultura pop em geral."
+                ],
+                proxima: 13,
+            },
+            {
+                texto: "Eles não tiveram um impacto significativo na música ou cultura pop.",
+                afirmacao: [
+                    "Na verdade, o impacto do BTS na música e na cultura pop foi bastante significativo.",
+                    "A influência deles pode ser vista em muitos aspectos da indústria musical e da cultura pop global."
+                ],
+                proxima: 14,
+            },
+        ]
+    },
+    {
+        enunciado: "Ao criar uma representação visual sobre o impacto do BTS, qual seria a sua abordagem?",
+        alternativas: [
+            {
+                texto: "Usar ferramentas de design para criar uma imagem detalhada e artística.",
+                afirmacao: [
+                    "A criação de imagens detalhadas pode capturar a complexidade e a profundidade do impacto cultural do BTS.",
+                    "Utilizar ferramentas de design ajuda a ilustrar visualmente o sucesso e a influência deles."
                 ],
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Usar um gerador de imagem de IA para criar uma imagem rápida e impactante.",
                 afirmacao: [
-                    "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
-                    "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
-                    "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando e acha que a IA é capaz de empoderar essas pessoas a tirarem ideias do papel."
+                    "Os geradores de imagem de IA podem criar representações visuais impactantes rapidamente.",
+                    "Essa abordagem pode ser útil para refletir a inovação e a modernidade associadas ao BTS."
                 ],
             },
         ]
     }
 ];
+
